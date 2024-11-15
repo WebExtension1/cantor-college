@@ -1,0 +1,21 @@
+.container {
+    padding-left: 225px;
+    padding-right: 225px;
+}
+header>img {
+    display: initial;
+}
+header>h1 {
+    display: initial;
+}
+header {
+    justify-content: space-between;
+}
+
+.facilitiesForm {
+    flex-direction: row;
+    gap: 250px;
+}
+.findUs {
+    flex-direction: row;
+}
